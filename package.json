@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "owl.carousel": "^2.3.4"
+  },
+  "name": "simple-video-streaming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
